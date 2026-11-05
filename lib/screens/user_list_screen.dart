@@ -48,7 +48,7 @@ class _UserListScreenState extends State<UserListScreen> {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) { 
     return Scaffold(
       appBar: AppBar(
         title: const Text('Daftar Pengguna'),
